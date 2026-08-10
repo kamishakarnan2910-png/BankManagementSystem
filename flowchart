@@ -1,0 +1,18 @@
+ FLOWCHART
+ 
+                                        Start
+                                           ↓
+                                    Display Menu
+                                           ↓
+                                  Get User Choice
+                                           ↓
+                                         Choice?
+                                           ↓
+                   Create   Deposit   Withdraw   View   Delete   View All
+  
+                                           ↓
+                                          Exit?
+                                           ↓
+                                      No         Yes
+                                    ↓              ↓                  
+                                 Back to Menu      End
