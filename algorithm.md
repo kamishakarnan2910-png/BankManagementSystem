@@ -1,4 +1,4 @@
-Algorithm 
+ALGORITHM
 
 Start
 
